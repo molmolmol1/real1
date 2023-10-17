@@ -1,10 +1,7 @@
 package lab;
 
-public class T2 {
-
-	public T2() {}
-		// TODO Auto-generated constructor stub
-		//Main method
+public class Scanner {
+	//Main method
 		public static void main (String[]args){
 			//Declare variables
 			double pounds;
@@ -19,6 +16,4 @@ public class T2 {
 			kilograms = pounds * 0.454;
 			//display result
 			System.out.println(pounds + "is" + kilograms + "kilograms")
-	}
-
 }
